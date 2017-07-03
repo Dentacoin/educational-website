@@ -1,3 +1,5 @@
+# Educational Website
+
 The educational website aims to educate through entertainment. 
 Meaning we are developing blocks with questions, which have multiple choice answers. 
 Each block contains a time frame and the amount of Dentacoins to be earned by answering the questions correct. 
